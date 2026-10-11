@@ -1,4 +1,4 @@
 {
-  "payload": "{\r\n    \"version\":  2,\r\n    \"issued\":  1791695713,\r\n    \"note\":  \"Свой прокси: браузеры через PAC, повтор соединения другой стратегией и обход по адресам\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.2.0\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.2.0/Brod-Setup.exe\",\r\n                \"sha256\":  \"dff69a7370b8b0122e6dece48836419a990dd992eff0e275ae101e2aee11eb13\"\r\n            }\r\n}",
-  "signature": "kWiY4GpxLpXRBW/3Cbwr0f+B4foZ5Y/atXb576vfSLlKz3Mx+Q8+o28ikURXcuIglfB0O2R1A9l2a3U8eu87DQ=="
+  "payload": "{\r\n    \"version\":  3,\r\n    \"issued\":  1791696810,\r\n    \"note\":  \"Голос Discord: обход включается, только если он нужен, и выключается в настройках\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.2.1\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.2.1/Brod-Setup.exe\",\r\n                \"sha256\":  \"c49ca0f74db296558e4d8f0f0d0bc29aa8467ef61f3f4fe62914f3f4e6b03eeb\"\r\n            }\r\n}",
+  "signature": "7DAovmqSv2pnDd52fPLJObh+c9zAemctbynSKmkjvUTYXTzPX2J8EKJRoR+J8XCan9WHr5TtRbuHPI4NntxwAg=="
 }
