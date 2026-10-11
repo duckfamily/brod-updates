@@ -1,4 +1,4 @@
 {
-  "payload": "{\r\n    \"version\":  3,\r\n    \"issued\":  1791696810,\r\n    \"note\":  \"Голос Discord: обход включается, только если он нужен, и выключается в настройках\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.2.1\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.2.1/Brod-Setup.exe\",\r\n                \"sha256\":  \"c49ca0f74db296558e4d8f0f0d0bc29aa8467ef61f3f4fe62914f3f4e6b03eeb\"\r\n            }\r\n}",
-  "signature": "7DAovmqSv2pnDd52fPLJObh+c9zAemctbynSKmkjvUTYXTzPX2J8EKJRoR+J8XCan9WHr5TtRbuHPI4NntxwAg=="
+  "payload": "{\r\n    \"version\":  4,\r\n    \"issued\":  1791698012,\r\n    \"note\":  \"Лицензия: Брод стал закрытой программой, условия в LICENSE рядом с программой\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.2.2\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.2.2/Brod-Setup.exe\",\r\n                \"sha256\":  \"7df3b9b00e215b05e987626bba09d4bb6cc353512d9931735e2a839149571f0d\"\r\n            }\r\n}",
+  "signature": "oH68Wl5AHzGqy5v6drhDA06KCXtA0qKe3+BeEBs9E4wBV/KVCh7Ay7lnV9iT1iSrjwZ3TpqQY0LNQS6Y88OuBQ=="
 }
