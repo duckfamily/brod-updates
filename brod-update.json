@@ -1,4 +1,4 @@
 {
-  "payload": "{\r\n    \"version\":  6,\r\n    \"issued\":  1791753388,\r\n    \"note\":  \"Третий движок обхода: свой пакетный, на плитке «пакеты» (новый, по умолчанию выключен)\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.3.1\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.3.1/Brod-Setup.exe\",\r\n                \"sha256\":  \"24f798d46f3e5a8e296a0e6af4d3c6a34b1c66b437f59ac340c1b489c6128766\"\r\n            }\r\n}",
-  "signature": "nPrV2AxRgz8vod3d3mU/zeya92QjMlmZlDGgywJQ6AqVWNQ0/k92SkilQBpPGAu0WvECvm+5/Zjnj1PixkOGDQ=="
+  "payload": "{\r\n    \"version\":  7,\r\n    \"issued\":  1791754122,\r\n    \"note\":  \"Обход больше не остаётся работать после выключения; третий движок обхода — свой пакетный\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.3.2\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.3.2/Brod-Setup.exe\",\r\n                \"sha256\":  \"faea6a8fd1605c71a0a06812188ab0d40356b13da0ac309bc08146a158280793\"\r\n            }\r\n}",
+  "signature": "1HBr6RKncEFr8Cqq/01cx2xLNUa1mV5dxH1jgvrt1zCwOUU4Lb6GvvoHeaxfv3l0H3u+N/pey22CyvsNDY5SAA=="
 }
