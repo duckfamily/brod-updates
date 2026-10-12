@@ -1,4 +1,4 @@
 {
-  "payload": "{\r\n    \"version\":  10,\r\n    \"issued\":  1791765786,\r\n    \"note\":  \"Пакетный движок теперь обходит и QUIC: свой фейковый Initial с приманкой\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.3.5\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.3.5/Brod-Setup.exe\",\r\n                \"sha256\":  \"0220e7061edbeefe072089c4a20363a0f37d854f34bbc4d64b324af938c52ce3\"\r\n            }\r\n}",
-  "signature": "JH7GWnJksac7g0DE0B7Z99FBo15sxUpHJTyVtuh3WTWcmfcFAujt0RW86gE3hBSrtIwPk3Gfcx8EZwMlvfRIBA=="
+  "payload": "{\r\n    \"version\":  11,\r\n    \"issued\":  1791767168,\r\n    \"note\":  \"Новый выбор «вместе»: пакеты для всех программ плюс прокси для браузеров\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.3.6\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.3.6/Brod-Setup.exe\",\r\n                \"sha256\":  \"2a263d418d36ed344e6a6f1545f352fd2a70ca212c351d74393a397abf5fdd5f\"\r\n            }\r\n}",
+  "signature": "sw9CWvT0gMm3eSYKlWr2z3LejOmtGnKCfkBBMIncSXIMpmiWPxCCaCUkYg1nz/y5KJ2X8cdVGM9Xb6N6xH4DBw=="
 }
