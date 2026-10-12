@@ -1,4 +1,4 @@
 {
-  "payload": "{\r\n    \"version\":  9,\r\n    \"issued\":  1791764739,\r\n    \"note\":  \"Discord больше не запускается бесконечно на пакетном движке\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.3.4\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.3.4/Brod-Setup.exe\",\r\n                \"sha256\":  \"90fb0cc1315285d0962f82a174f5218ffed3eb6a19c22c89d272c09a47a8e39b\"\r\n            }\r\n}",
-  "signature": "GGecYuwEEdlXN3NSUqG1QFpqrZf2HFdg5YnlMxzP7tVjo1oPI7zhW8YJls/TajII/2BYUAFzw+S+gNNqMyRNCA=="
+  "payload": "{\r\n    \"version\":  10,\r\n    \"issued\":  1791765786,\r\n    \"note\":  \"Пакетный движок теперь обходит и QUIC: свой фейковый Initial с приманкой\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.3.5\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.3.5/Brod-Setup.exe\",\r\n                \"sha256\":  \"0220e7061edbeefe072089c4a20363a0f37d854f34bbc4d64b324af938c52ce3\"\r\n            }\r\n}",
+  "signature": "JH7GWnJksac7g0DE0B7Z99FBo15sxUpHJTyVtuh3WTWcmfcFAujt0RW86gE3hBSrtIwPk3Gfcx8EZwMlvfRIBA=="
 }
