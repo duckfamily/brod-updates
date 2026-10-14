@@ -1,4 +1,4 @@
 {
-  "payload": "{\r\n    \"version\":  15,\r\n    \"issued\":  1791945138,\r\n    \"note\":  \"Брод сам выбирает, чем обходить: переключателя движков больше нет. Два новых приёма на проводе\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.4.0\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.4.0/Brod-Setup.exe\",\r\n                \"sha256\":  \"c9690ffefb20bda44bb1b95c79ca23da1d75d68c0e3f982cd1a17f9a90aa80d2\"\r\n            }\r\n}",
-  "signature": "fc5MkBJOUhY5JzIrNr0Sx509x6yfYDRg+1YWvBnRIrhR0pM8lN8mZhjGTD7VJ3C3obnf4hoV2y//PaOzgn9KBg=="
+  "payload": "{\r\n    \"version\":  16,\r\n    \"issued\":  1791945556,\r\n    \"note\":  \"Упрямому сайту группы — свой приём: discord.com больше не тянет вниз всю группу\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.4.1\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.4.1/Brod-Setup.exe\",\r\n                \"sha256\":  \"26922a6fc878f4ef2def9b73b109bb920e33d180eba41d1617cc39bc05734730\"\r\n            }\r\n}",
+  "signature": "15TYDE8R33JYbyv9Lt8KjeoaoBNkFCrkggD6W2witn00vCb4Y/QpxjHoS+V6IDPCpK/m0GTZqKe+dc3fX61GDQ=="
 }
