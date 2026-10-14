@@ -1,4 +1,4 @@
 {
-  "payload": "{\r\n    \"version\":  16,\r\n    \"issued\":  1791945556,\r\n    \"note\":  \"Упрямому сайту группы — свой приём: discord.com больше не тянет вниз всю группу\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.4.1\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.4.1/Brod-Setup.exe\",\r\n                \"sha256\":  \"26922a6fc878f4ef2def9b73b109bb920e33d180eba41d1617cc39bc05734730\"\r\n            }\r\n}",
-  "signature": "15TYDE8R33JYbyv9Lt8KjeoaoBNkFCrkggD6W2witn00vCb4Y/QpxjHoS+V6IDPCpK/m0GTZqKe+dc3fX61GDQ=="
+  "payload": "{\r\n    \"version\":  17,\r\n    \"issued\":  1791947354,\r\n    \"note\":  \"Свой обход голоса Discord: последнее, что умел только zapret\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.4.2\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.4.2/Brod-Setup.exe\",\r\n                \"sha256\":  \"34c361b89334e5d6df4249bf3ef4baed1e38f60f88abedb95ea8b3c75b380dc4\"\r\n            }\r\n}",
+  "signature": "j0TY30QD0uMV90UoSdVJOtgQAYtQRTR3CQ9XR+4Kduo0gYAwS8IO+YWO1e/XaHGPCXzq7IAwPgi37c9RtaweAw=="
 }
