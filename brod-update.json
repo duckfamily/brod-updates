@@ -1,4 +1,4 @@
 {
-  "payload": "{\r\n    \"version\":  18,\r\n    \"issued\":  1792006083,\r\n    \"note\":  \"выбор DNS нейросетей в окне и разблокировщик dns-ai.ru\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.4.3\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.4.3/Brod-Setup.exe\",\r\n                \"sha256\":  \"6fe7b9031bd1a02d69f29454a9671d315886679d294e9248f5b49a443e188d5c\"\r\n            }\r\n}",
-  "signature": "lj4aqYdmvvZCYM8yv6KHX1id4Nx1sqOw9XKN95tYIvNqOm4GzaAduVD/bEmFt1lKyyJjHgmk2x6LnEmvmNQTCA=="
+  "payload": "{\r\n    \"version\":  19,\r\n    \"issued\":  1792093462,\r\n    \"note\":  \"перехват закрывается при остановке; служба драйвера не отнимается у zapret\",\r\n    \"lists\":  {\r\n\r\n              },\r\n    \"presets\":  [\r\n\r\n                ],\r\n    \"app\":  {\r\n                \"version\":  \"0.4.4\",\r\n                \"url\":  \"https://github.com/duckfamily/brod/releases/download/v0.4.4/Brod-Setup.exe\",\r\n                \"sha256\":  \"8d243c5fae3b240d5408e25e5f7088ea32ef209f60d7fb72c8ea9e878c709e30\"\r\n            }\r\n}",
+  "signature": "okdPzSGM/kslTvx3S4VONJ5rVXYBxPMHgWVqmqwHkXwAIj8peyCsHLuw6R7hOi84jjVLEI3gCc+SZ9cgkqFKBw=="
 }
